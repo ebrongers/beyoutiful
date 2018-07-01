@@ -33,6 +33,7 @@ $cms = require __DIR__ . '/bootstrap/start.php';
  * ----------------------------------------------------------------------------
  */
 $runtime = $cms->getRuntime();
+
 if ($response = $runtime->run()) {
 
     /*

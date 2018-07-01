@@ -10,23 +10,38 @@ if (!function_exists('compat_is_version_8')) {
 		<div class="footer-container">
 			<footer class="footer-content-inner" role="contentinfo">
 				<div class="container">
-					<div class="row">
-						<!-- Footer Navigation -->
-						<div class="footer-nav col-sm-6">
-							<?php
-							$a = new GlobalArea('Footer Navigation');
-							$a->display();
-							?>
-						</div><!-- //Footer Navigation -->
+					<div class="row" style="background-color:#44413e;">
 						<!-- Social Button -->
-						<div class="social-button col-sm-6">
+						<div class="social-button col-sm-3">
 							<nav>
 								<?php
 								$a = new GlobalArea('Footer Social');
 								$a->display();
 								?>
 							</nav>
-						</div><!-- //Social Button -->
+						</div><!-- //Social Button -->		
+						<!-- Footer Adres -->
+						<div class="footer-adres col-sm-3">
+							<?php
+							$a = new GlobalArea('Footer Adres');
+							$a->display();
+							?>
+						</div><!-- //Footer Adres -->										
+						<!-- Footer Navigation -->
+						<div class="footer-nav col-sm-3">
+							<?php
+							$a = new GlobalArea('Footer Navigation');
+							$a->display();
+							?>
+						</div><!-- //Footer Navigation -->
+						<!-- Footer Openingstijden -->
+						<div class="footer-nav col-sm-3">
+							<?php
+							$a = new GlobalArea('Footer Openingstijden');
+							$a->display();
+							?>
+						</div><!-- //Footer Openingstijden -->					
+
 					</div>
 					<div class="row">						
 						<div class="col-sm-3 footer-white">

@@ -87,3 +87,110 @@
 [Fri Jun 22 12:02:06 2018] [error] [client 192.168.174.1] File does not exist: /var/www/beyoutiful.nl/favicon.ico
 [Fri Jun 22 12:02:33 2018] [error] [client 192.168.174.1] File does not exist: /var/www/beyoutiful.nl/favicon.ico
 [Fri Jun 22 12:08:55 2018] [error] [client 192.168.174.1] File does not exist: /var/www/beyoutiful.nl/favicon.ico
+[Fri Jun 22 12:15:46 2018] [error] [client 192.168.174.1] File does not exist: /var/www/beyoutiful.nl/favicon.ico
+[Fri Jun 22 12:18:20 2018] [error] [client 192.168.174.1] File does not exist: /var/www/beyoutiful.nl/favicon.ico
+[Fri Jun 22 12:19:22 2018] [error] [client 192.168.174.1] File does not exist: /var/www/beyoutiful.nl/favicon.ico
+[Fri Jun 22 12:21:48 2018] [error] [client 192.168.174.1] File does not exist: /var/www/beyoutiful.nl/favicon.ico
+[Fri Jun 22 12:24:31 2018] [error] [client 192.168.174.1] File does not exist: /var/www/beyoutiful.nl/favicon.ico
+[Fri Jun 22 12:25:27 2018] [error] [client 192.168.174.1] File does not exist: /var/www/beyoutiful.nl/favicon.ico
+[Fri Jun 22 12:26:12 2018] [error] [client 192.168.174.1] File does not exist: /var/www/beyoutiful.nl/favicon.ico
+[Fri Jun 22 12:28:23 2018] [error] [client 192.168.174.1] File does not exist: /var/www/beyoutiful.nl/favicon.ico
+[Fri Jun 22 12:28:46 2018] [error] [client 192.168.174.1] File does not exist: /var/www/beyoutiful.nl/favicon.ico
+[Fri Jun 22 12:29:25 2018] [error] [client 192.168.174.1] File does not exist: /var/www/beyoutiful.nl/favicon.ico
+[Fri Jun 22 12:33:01 2018] [error] [client 192.168.174.1] File does not exist: /var/www/beyoutiful.nl/favicon.ico
+[Fri Jun 22 12:33:16 2018] [error] [client 192.168.174.1] File does not exist: /var/www/beyoutiful.nl/favicon.ico
+[Fri Jun 22 12:35:22 2018] [error] [client 192.168.174.1] File does not exist: /var/www/beyoutiful.nl/favicon.ico
+[Fri Jun 22 12:35:58 2018] [error] [client 192.168.174.1] File does not exist: /var/www/beyoutiful.nl/favicon.ico
+[Fri Jun 22 12:36:22 2018] [error] [client 192.168.174.1] File does not exist: /var/www/beyoutiful.nl/favicon.ico
+[Fri Jun 22 12:36:43 2018] [error] [client 192.168.174.1] File does not exist: /var/www/beyoutiful.nl/favicon.ico
+[Fri Jun 22 12:37:23 2018] [error] [client 192.168.174.1] File does not exist: /var/www/beyoutiful.nl/favicon.ico
+[Fri Jun 22 12:38:07 2018] [error] [client 192.168.174.1] File does not exist: /var/www/beyoutiful.nl/favicon.ico
+[Fri Jun 22 12:38:37 2018] [error] [client 192.168.174.1] File does not exist: /var/www/beyoutiful.nl/favicon.ico
+[Fri Jun 22 12:39:09 2018] [error] [client 192.168.174.1] File does not exist: /var/www/beyoutiful.nl/favicon.ico
+[Fri Jun 22 12:41:05 2018] [error] [client 192.168.174.1] File does not exist: /var/www/beyoutiful.nl/favicon.ico
+[Fri Jun 22 13:41:22 2018] [error] [client 192.168.174.1] PHP Fatal error:  Class 'BlockController' not found in /var/www/beyoutiful.nl/application/blocks/larze_imagefeed_block/controller.php on line 3, referer: http://o.beyoutiful.nl/index.php/dashboard/blocks/stacks
+[Fri Jun 22 13:46:31 2018] [error] [client 192.168.174.1] PHP Fatal error:  Cannot use Concrete\\Core\\Block\\BlockController as BlockController because the name is already in use in /var/www/beyoutiful.nl/application/blocks/larze_imagefeed_block/controller.php on line 6, referer: http://o.beyoutiful.nl/index.php/dashboard/blocks/stacks
+[Fri Jun 22 13:49:56 2018] [error] [client 192.168.174.1] File does not exist: /var/www/beyoutiful.nl/favicon.ico, referer: http://o.beyoutiful.nl/index.php/dashboard/blocks/types
+[Fri Jun 22 13:50:56 2018] [error] [client 192.168.174.1] File does not exist: /var/www/beyoutiful.nl/favicon.ico, referer: http://o.beyoutiful.nl/index.php/dashboard/blocks/types
+[Fri Jun 22 13:54:45 2018] [error] [client 192.168.174.1] File does not exist: /var/www/beyoutiful.nl/favicon.ico, referer: http://o.beyoutiful.nl/index.php/dashboard/blocks/types
+[Fri Jun 22 14:03:40 2018] [error] [client 192.168.174.1] PHP Fatal error:  Class 'Concrete\\Package\\InstagramFeed\\Src\\Instagram\\InstagramException' not found in /var/www/beyoutiful.nl/packages/instagram_feed/src/Instagram/Instagram.php on line 165, referer: http://o.beyoutiful.nl/index.php?cID=1
+[Fri Jun 22 14:03:53 2018] [error] [client 192.168.174.1] PHP Fatal error:  Class 'Concrete\\Package\\InstagramFeed\\Src\\Instagram\\InstagramException' not found in /var/www/beyoutiful.nl/packages/instagram_feed/src/Instagram/Instagram.php on line 165, referer: http://o.beyoutiful.nl/index.php?cID=1
+[Fri Jun 22 14:06:08 2018] [error] [client 192.168.174.1] PHP Fatal error:  Class 'Concrete\\Package\\InstagramFeed\\Src\\Instagram\\Exception' not found in /var/www/beyoutiful.nl/packages/instagram_feed/src/Instagram/Instagram.php on line 165, referer: http://o.beyoutiful.nl/index.php?cID=1
+[Fri Jun 22 14:08:37 2018] [error] [client 192.168.174.1] PHP Fatal error:  Class 'Concrete\\Package\\InstagramFeed\\Src\\Instagram\\InstagramException' not found in /var/www/beyoutiful.nl/packages/instagram_feed/src/Instagram/Instagram.php on line 170, referer: http://o.beyoutiful.nl/index.php?cID=1
+[Fri Jun 22 14:08:52 2018] [error] [client 192.168.174.1] PHP Fatal error:  Class 'Concrete\\Package\\InstagramFeed\\Src\\Instagram\\InstagramException' not found in /var/www/beyoutiful.nl/packages/instagram_feed/src/Instagram/Instagram.php on line 124, referer: http://o.beyoutiful.nl/index.php?cID=1
+[Fri Jun 22 14:09:04 2018] [error] [client 192.168.174.1] PHP Fatal error:  Class 'Concrete\\Package\\InstagramFeed\\Src\\Instagram\\InstagramException' not found in /var/www/beyoutiful.nl/packages/instagram_feed/src/Instagram/Instagram.php on line 124, referer: http://o.beyoutiful.nl/index.php?cID=1
+[Fri Jun 22 14:52:59 2018] [error] [client 192.168.174.1] File does not exist: /var/www/beyoutiful.nl/favicon.ico
+[Fri Jun 22 14:53:19 2018] [error] [client 192.168.174.1] File does not exist: /var/www/beyoutiful.nl/favicon.ico
+[Fri Jun 22 16:24:12 2018] [error] [client 192.168.174.1] File does not exist: /var/www/beyoutiful.nl/favicon.ico
+[Fri Jun 22 16:27:33 2018] [error] [client 192.168.174.1] File does not exist: /var/www/beyoutiful.nl/favicon.ico
+[Fri Jun 22 16:27:50 2018] [error] [client 192.168.174.1] PHP Fatal error:  Cannot access protected property Concrete\\Core\\Sharing\\SocialNetwork\\Service::$ssName in /var/www/beyoutiful.nl/concrete/blocks/social_links/view.php on line 8
+[Fri Jun 22 16:27:51 2018] [error] [client 192.168.174.1] File does not exist: /var/www/beyoutiful.nl/favicon.ico
+[Fri Jun 22 16:28:07 2018] [error] [client 192.168.174.1] File does not exist: /var/www/beyoutiful.nl/favicon.ico
+[Fri Jun 22 16:28:25 2018] [error] [client 192.168.174.1] File does not exist: /var/www/beyoutiful.nl/favicon.ico
+[Fri Jun 22 16:28:31 2018] [error] [client 192.168.174.1] File does not exist: /var/www/beyoutiful.nl/favicon.ico
+[Fri Jun 22 16:29:28 2018] [error] [client 192.168.174.1] File does not exist: /var/www/beyoutiful.nl/favicon.ico
+[Fri Jun 22 16:33:25 2018] [error] [client 192.168.174.1] File does not exist: /var/www/beyoutiful.nl/favicon.ico
+[Fri Jun 22 16:35:34 2018] [error] [client 192.168.174.1] File does not exist: /var/www/beyoutiful.nl/favicon.ico
+[Fri Jun 22 16:35:43 2018] [error] [client 192.168.174.1] File does not exist: /var/www/beyoutiful.nl/favicon.ico
+[Fri Jun 22 16:35:52 2018] [error] [client 192.168.174.1] File does not exist: /var/www/beyoutiful.nl/favicon.ico
+[Fri Jun 22 16:35:57 2018] [error] [client 192.168.174.1] File does not exist: /var/www/beyoutiful.nl/favicon.ico
+[Fri Jun 22 16:36:24 2018] [error] [client 192.168.174.1] File does not exist: /var/www/beyoutiful.nl/favicon.ico
+[Fri Jun 22 16:36:44 2018] [error] [client 192.168.174.1] File does not exist: /var/www/beyoutiful.nl/favicon.ico
+[Fri Jun 22 16:38:51 2018] [error] [client 192.168.174.1] File does not exist: /var/www/beyoutiful.nl/favicon.ico
+[Fri Jun 22 16:39:56 2018] [error] [client 192.168.174.1] File does not exist: /var/www/beyoutiful.nl/favicon.ico
+[Fri Jun 22 16:40:24 2018] [error] [client 192.168.174.1] File does not exist: /var/www/beyoutiful.nl/favicon.ico
+[Fri Jun 22 16:41:26 2018] [error] [client 192.168.174.1] File does not exist: /var/www/beyoutiful.nl/favicon.ico
+[Fri Jun 22 16:42:09 2018] [error] [client 192.168.174.1] File does not exist: /var/www/beyoutiful.nl/favicon.ico
+[Fri Jun 22 16:43:43 2018] [error] [client 192.168.174.1] File does not exist: /var/www/beyoutiful.nl/favicon.ico
+[Fri Jun 22 16:58:19 2018] [error] [client 192.168.174.1] File does not exist: /var/www/beyoutiful.nl/favicon.ico
+[Fri Jun 22 16:58:35 2018] [error] [client 192.168.174.1] File does not exist: /var/www/beyoutiful.nl/favicon.ico
+[Fri Jun 22 17:00:11 2018] [error] [client 192.168.174.1] File does not exist: /var/www/beyoutiful.nl/favicon.ico
+[Fri Jun 22 17:01:16 2018] [error] [client 192.168.174.1] File does not exist: /var/www/beyoutiful.nl/favicon.ico
+[Fri Jun 22 17:01:25 2018] [error] [client 192.168.174.1] File does not exist: /var/www/beyoutiful.nl/favicon.ico
+[Fri Jun 22 17:03:43 2018] [error] [client 192.168.174.1] File does not exist: /var/www/beyoutiful.nl/favicon.ico
+[Fri Jun 22 17:04:01 2018] [error] [client 192.168.174.1] File does not exist: /var/www/beyoutiful.nl/favicon.ico
+[Fri Jun 22 17:05:14 2018] [error] [client 192.168.174.1] File does not exist: /var/www/beyoutiful.nl/favicon.ico
+[Fri Jun 22 17:05:45 2018] [error] [client 192.168.174.1] File does not exist: /var/www/beyoutiful.nl/favicon.ico
+[Fri Jun 22 17:07:46 2018] [error] [client 192.168.174.1] File does not exist: /var/www/beyoutiful.nl/favicon.ico
+[Fri Jun 22 17:09:56 2018] [error] [client 192.168.174.1] File does not exist: /var/www/beyoutiful.nl/favicon.ico
+[Fri Jun 22 17:10:48 2018] [error] [client 192.168.174.1] File does not exist: /var/www/beyoutiful.nl/favicon.ico
+[Fri Jun 22 17:12:44 2018] [error] [client 192.168.174.1] File does not exist: /var/www/beyoutiful.nl/favicon.ico
+[Fri Jun 22 17:12:59 2018] [error] [client 192.168.174.1] File does not exist: /var/www/beyoutiful.nl/favicon.ico
+[Fri Jun 22 17:14:30 2018] [error] [client 192.168.174.1] File does not exist: /var/www/beyoutiful.nl/favicon.ico
+[Fri Jun 22 17:14:42 2018] [error] [client 192.168.174.1] File does not exist: /var/www/beyoutiful.nl/favicon.ico
+[Fri Jun 22 17:37:54 2018] [error] [client 192.168.174.1] File does not exist: /var/www/beyoutiful.nl/favicon.ico
+[Fri Jun 22 17:39:34 2018] [error] [client 192.168.174.1] File does not exist: /var/www/beyoutiful.nl/favicon.ico
+[Fri Jun 22 17:40:11 2018] [error] [client 192.168.174.1] File does not exist: /var/www/beyoutiful.nl/favicon.ico
+[Fri Jun 22 17:41:14 2018] [error] [client 192.168.174.1] File does not exist: /var/www/beyoutiful.nl/favicon.ico
+[Fri Jun 22 17:41:49 2018] [error] [client 192.168.174.1] File does not exist: /var/www/beyoutiful.nl/favicon.ico
+[Fri Jun 22 17:43:36 2018] [error] [client 192.168.174.1] File does not exist: /var/www/beyoutiful.nl/favicon.ico
+[Fri Jun 22 17:43:51 2018] [error] [client 192.168.174.1] File does not exist: /var/www/beyoutiful.nl/favicon.ico
+[Fri Jun 22 17:44:23 2018] [error] [client 192.168.174.1] File does not exist: /var/www/beyoutiful.nl/favicon.ico
+[Fri Jun 22 17:44:36 2018] [error] [client 192.168.174.1] File does not exist: /var/www/beyoutiful.nl/favicon.ico
+[Fri Jun 22 17:44:40 2018] [error] [client 192.168.174.1] File does not exist: /var/www/beyoutiful.nl/favicon.ico
+[Fri Jun 22 17:44:44 2018] [error] [client 192.168.174.1] File does not exist: /var/www/beyoutiful.nl/favicon.ico
+[Fri Jun 22 17:50:04 2018] [error] [client 192.168.174.1] File does not exist: /var/www/beyoutiful.nl/favicon.ico
+[Fri Jun 22 17:50:19 2018] [error] [client 192.168.174.1] File does not exist: /var/www/beyoutiful.nl/favicon.ico
+[Fri Jun 22 17:51:49 2018] [error] [client 192.168.174.1] File does not exist: /var/www/beyoutiful.nl/favicon.ico
+[Fri Jun 22 17:52:30 2018] [error] [client 192.168.174.1] File does not exist: /var/www/beyoutiful.nl/favicon.ico
+[Fri Jun 22 17:52:53 2018] [error] [client 192.168.174.1] File does not exist: /var/www/beyoutiful.nl/favicon.ico
+[Fri Jun 22 17:53:04 2018] [error] [client 192.168.174.1] File does not exist: /var/www/beyoutiful.nl/favicon.ico
+[Fri Jun 22 17:54:54 2018] [error] [client 192.168.174.1] File does not exist: /var/www/beyoutiful.nl/favicon.ico
+[Fri Jun 22 17:56:30 2018] [error] [client 192.168.174.1] File does not exist: /var/www/beyoutiful.nl/favicon.ico
+[Fri Jun 22 18:07:25 2018] [error] [client 192.168.174.1] File does not exist: /var/www/beyoutiful.nl/favicon.ico
+[Fri Jun 22 18:07:29 2018] [error] [client 192.168.174.1] File does not exist: /var/www/beyoutiful.nl/favicon.ico
+[Fri Jun 22 18:14:16 2018] [error] [client 192.168.174.1] File does not exist: /var/www/beyoutiful.nl/favicon.ico
+[Fri Jun 22 18:15:56 2018] [error] [client 192.168.174.1] File does not exist: /var/www/beyoutiful.nl/favicon.ico
+[Fri Jun 22 18:19:15 2018] [error] [client 192.168.174.1] File does not exist: /var/www/beyoutiful.nl/favicon.ico
+[Fri Jun 22 18:19:41 2018] [error] [client 192.168.174.1] File does not exist: /var/www/beyoutiful.nl/favicon.ico
+[Fri Jun 22 18:20:47 2018] [error] [client 192.168.174.1] File does not exist: /var/www/beyoutiful.nl/favicon.ico
+[Fri Jun 22 18:22:00 2018] [error] [client 192.168.174.1] File does not exist: /var/www/beyoutiful.nl/favicon.ico
+[Fri Jun 22 18:22:19 2018] [error] [client 192.168.174.1] File does not exist: /var/www/beyoutiful.nl/favicon.ico
+[Fri Jun 22 18:27:27 2018] [error] [client 192.168.174.1] File does not exist: /var/www/beyoutiful.nl/favicon.ico
+[Fri Jun 22 18:29:07 2018] [error] [client 192.168.174.1] File does not exist: /var/www/beyoutiful.nl/favicon.ico
+[Fri Jun 22 18:29:28 2018] [error] [client 192.168.174.1] File does not exist: /var/www/beyoutiful.nl/favicon.ico
+[Fri Jun 22 18:30:01 2018] [error] [client 192.168.174.1] File does not exist: /var/www/beyoutiful.nl/favicon.ico
+[Fri Jun 22 18:30:15 2018] [error] [client 192.168.174.1] File does not exist: /var/www/beyoutiful.nl/favicon.ico
+[Fri Jun 22 18:30:24 2018] [error] [client 192.168.174.1] File does not exist: /var/www/beyoutiful.nl/favicon.ico
+[Fri Jun 22 18:30:33 2018] [error] [client 192.168.174.1] File does not exist: /var/www/beyoutiful.nl/favicon.ico
+[Fri Jun 22 18:30:37 2018] [error] [client 192.168.174.1] File does not exist: /var/www/beyoutiful.nl/favicon.ico

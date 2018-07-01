@@ -34,19 +34,32 @@ footer {
 			}
 		}
 	}
-
+	
+	.footer-adres {
+		a {
+			color:white;
+		}
+	}
+	.list  {
+		
+			padding-left:0;
+			a {
+				color:white;
+			}
+		
+	}
 
 	.footer-nav {
 		margin: 20px 0;
-
+		
 		.list-inline {
 			width: 100%;
 
 			> li {
 				display: block;
-				float: left;
+				
 				margin-right: 0;
-				padding: 0 5px;
+				
 			}
 		}
 
@@ -57,7 +70,7 @@ footer {
 
 			> li {
 				display: inline-block;
-				padding: 0 5px;
+				
 			}
 		}
 
@@ -72,7 +85,7 @@ footer {
 				display: block;
 				width: 100%;
 				height: 100%;
-				padding: 4px;
+				
 				
 				text-decoration: none;
 				border: solid 1px @footer-line-color;
@@ -92,19 +105,30 @@ footer {
 		}
 
 		p {
-			display: inline-block;
-			padding: 0 5px;
+			
+			
 		}
 	}
 
 	@media (min-width: 768px) {
 		.footer-nav,
-		.social-button {
+		.social-button,
+		.footer-adres {
 			margin: 40px 0 20px;
-
+			text-align:left;
+			h2 {
+				color:white;
+			}
 			.list-inline {
 				margin-bottom: 0;
 			}
+			
+		ul {
+			list-style: none;
+			li {
+				margin-bottom:20px !important;
+			}
+		}
 		}
 	}
 
@@ -123,15 +147,13 @@ footer {
 				font-size: .8em;
 				font-size: .8rem;
 				line-height: 1.2;
-				border-left: solid 1px @footer-line-color;
-				&:first-child {
-					border: none;
-				}
+
 
 				a {
 					/* display: inline; */
 					padding: 0;
 					border: none;
+					color: #fff;
 					&:hover,
 					&.active {
 						color: #fff;
@@ -148,7 +170,7 @@ footer {
 			}
 
 			p {
-				display: inline-block;
+				
 			}
 		}
 	}
@@ -160,7 +182,7 @@ footer {
 			font-size: .85rem;
 
 			a {
-				padding: 0 5px;
+				
 			}
 		}
 	}
@@ -172,8 +194,11 @@ footer {
 	}
 	
 	.footer-white{
-		background-color:white;
+		background-color:#f5f5f6;
 		height: 56px;
+		color:#44413e;
+		padding-top:14px;
+		text-align:left;
 	}
 	.footer-green {
 		background-color:@social-button-background-color;
@@ -181,6 +206,9 @@ footer {
 		background-repeat: no-repeat;
 		background-position:left;
 	    height: 56px;
+	    padding-top:14px;
+	    padding-left:40px;
+	    text-align:left;
 		
 		
 	}

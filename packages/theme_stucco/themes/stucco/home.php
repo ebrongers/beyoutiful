@@ -43,6 +43,48 @@ $this->inc('inc/header.php');
 					?>
 					</div>
 				</div>
+				<div class="row">
+					<div class="col-sm-4 kolom-1">
+					<?php
+						$a = new Area('Instagram-1');
+						$a->display();
+					?>
+					</div>
+					<div class="col-sm-4 kolom-1">
+					<?php
+						$a = new Area('Instagram-2');
+						$a->display();
+					?>
+					</div>
+					<div class="col-sm-4 kolom-1">
+					<?php
+						$a = new Area('Instagram-3');
+						$a->display();
+					?>
+					</div>
+				
+				</div>				
+				<div class="row">
+					<div class="col-sm-4 kolom-1">
+					<?php
+						$a = new Area('Instagram-4');
+						$a->display();
+					?>
+					</div>
+					<div class="col-sm-4 kolom-1">
+					<?php
+						$a = new Area('Instagram-5');
+						$a->display();
+					?>
+					</div>
+					<div class="col-sm-4 kolom-1">
+					<?php
+						$a = new Area('Instagram-6');
+						$a->display();
+					?>
+					</div>
+				
+				</div>					
 				</main>
 
 			</div>
